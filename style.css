@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+       
+}
+ul, li {
+    display: inline;
+    float: right;
+    height: 20px;
+    list-style-type: none;
+    font-size: 13px;
+    padding: 0 10px;
+}
+#g-acct-logo {
+    position: relative;
+    margin: -7px;
+}
+.logo {
+    width: 270px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+#g-logo {
+    padding-top: 100px;
+    height: 95px;
+    width: 270px;
+}
+.search-bar {
+    width: 681px;
+    margin: 15px auto;
+}
+#search-text {
+    color: #bbb;
+    font-size: 16px;
+    padding-left: 10px;
+    width: 670px;
+    height: 35px;
+    border: 1px solid #bbb;
+    background: url(img/google-search-icon.jpg) no-repeat right;
+}
+.thumbnails {
+    width: 681px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
